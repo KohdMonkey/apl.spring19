@@ -5,7 +5,7 @@
 | -------- | ---------------------- | --------- | ------------------------------------------- | ------ |
 | 19/04/12 | Security/Obfuscation   | Maxwell   | Virtualisation-Based JavaScript Obfuscation |        |
 | 19/04/19 |                        |           |                                             |        |
-| 19/04/26 | Solver-Aided Languages | Aldrin    |                                             | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
+| 19/04/26 | Solver-Aided Languages | Aldrin    | Rosette is a framework for designing SALs   | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
 | 19/05/03 |                        |           |                                             |        |
 | 19/05/10 |                        |           |                                             |        |
 | 19/05/17 |                        |           |                                             |        |
