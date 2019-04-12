@@ -4,8 +4,8 @@ List of Presenters for CMPS 280S - Applied Programming Languages
 
 HTML views can be found via:
 
-* [index](https://kohdmonkey.github.io/apl.spring19)
 * [schedule](https://kohdmonkey.github.io/apl.spring19/schedule)
+* [simple-schedule](https://kohdmonkey.github.io/apl.spring19/simple-schedule)
 
 # On-brand conferences
 Some conferences with relevant, high quality papers are:
