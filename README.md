@@ -1,8 +1,6 @@
 # Applied Programming Languages Seminar (Spring 2019)
 
-List of Presenters for CMPS 280S - Applied Programming Languages 
-
-HTML views can be found via:
+Schedule of topics and presenters for CMPS 280S - Applied Programming Languages:
 
 * [schedule](https://kohdmonkey.github.io/apl.spring19/schedule)
 * [simple-schedule](https://kohdmonkey.github.io/apl.spring19/simple-schedule)
