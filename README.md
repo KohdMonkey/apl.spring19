@@ -1,4 +1,4 @@
-# Applied Programming Languages Seminar (CMPS 280O - Spring 2019)
+# Applied Programming Languages Seminar <br/> CMPS 280O <br/> Spring 2019
 
 ## Schedule of topics and presenters
 
