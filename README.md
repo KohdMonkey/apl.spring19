@@ -1,11 +1,11 @@
-# Applied Programming Languages Seminar (Spring 2019)
+# Applied Programming Languages Seminar (CMPS 280O - Spring 2019)
 
-Schedule of topics and presenters for CMPS 280S - Applied Programming Languages:
+## Schedule of topics and presenters
 
 * [schedule](https://kohdmonkey.github.io/apl.spring19/schedule)
 * [simple-schedule](https://kohdmonkey.github.io/apl.spring19/simple-schedule)
 
-# On-brand conferences
+## On-brand conferences and paper sources
 Some conferences with relevant, high quality papers are:
 
 * Programming Language Conferences (many run or referenced by [sigplan][conferences-sigplan]):
