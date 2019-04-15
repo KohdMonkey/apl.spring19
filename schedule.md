@@ -7,7 +7,7 @@
 | 19/04/19 |                        |           |                                             |        |
 | 19/04/26 | Solver-Aided Languages | Aldrin    | Rosette is a framework for designing SALs   | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
 | 19/05/03 |TBD                     | Priyanka  |TBA                                          |TBA     |
-| 19/05/10 |Static Program Analysus | Tuan      |Surviving Out-of-Gas Conditions in Ethereum Smart Contracts|[MadMax][paper-madmax]        |
+| 19/05/10 |Static Program Analysis | Tuan      |Surviving Out-of-Gas Conditions in Ethereum Smart Contracts|[MadMax][paper-madmax]        |
 | 19/05/17 |                        |           |                                             |        |
 | 19/05/24 |                        |           |                                             |        |
 | 19/05/31 |                        |           |                                             |        |
