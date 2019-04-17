@@ -4,7 +4,7 @@
 | Date     | Topic                  | Presenter | Short Description                           | Papers |
 | -------- | ---------------------- | --------- | ------------------------------------------- | ------ |
 | 19/04/12 | Security/Obfuscation   | Maxwell   | Virtualisation-Based JavaScript Obfuscation |        |
-| 19/04/19 |                        |           |                                             |        |
+| 19/04/19 | Decent Application Platform | Haofan  | a framework for building secure decentralized applications |  NA  |
 | 19/04/26 | Solver-Aided Languages | Aldrin    | Rosette is a framework for designing SALs   | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
 | 19/05/03 |Verification of Distributed Systems | Priyanka  |Synchronous Verification of Asynchronous Distributed Programs                                          |[Program Verif][paper-programVerif]     |
 | 19/05/10 |Static Program Analysis | Tuan      |Surviving Out-of-Gas Conditions in Ethereum Smart Contracts|[MadMax][paper-madmax]        |
