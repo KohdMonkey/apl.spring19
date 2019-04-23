@@ -8,7 +8,7 @@
 | 19/04/26 | Solver-Aided Languages | Aldrin    | Rosette is a framework for designing SALs   | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
 | 19/05/03 |Verification of Distributed Systems | Priyanka  |Synchronous Verification of Asynchronous Distributed Programs                                          |[Program Verif][paper-programVerif]     |
 | 19/05/10 |Static Program Analysis | Tuan      |Surviving Out-of-Gas Conditions in Ethereum Smart Contracts|[MadMax][paper-madmax]        |
-| 19/05/17 |                        |           |                                             |        |
+| 19/05/17 | TBA                    | Sohum     |TBA                                          |TBA     |
 | 19/05/24 |                        |           |                                             |        |
 | 19/05/31 |                        |           |                                             |        |
 | 19/06/07 |                        |           |                                             |        |
