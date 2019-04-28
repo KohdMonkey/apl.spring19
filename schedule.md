@@ -6,7 +6,7 @@
 | 19/04/12 | Security/Obfuscation                | Maxwell   | Dr. Arden      | Virtualisation-Based JavaScript Obfuscation                   |                                                    |
 | 19/04/19 | Decent Application Platform         | Haofan    | Dr. Arden      | a framework for building secure decentralized applications    |  NA                                                |
 | 19/04/26 | Solver-Aided Languages              | Aldrin    | Roy            | Rosette is a framework for designing SALs                     | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
-| 19/05/03 | Verification of Distributed Systems | Priyanka  | Aldrin         | Synchronous Verification of Asynchronous Distributed Programs | [Program Verif][paper-programVerif]                |
+| 19/05/03 | Verification of Distributed Systems | Priyanka  | Ana             | Synchronous Verification of Asynchronous Distributed Programs | [Program Verif][paper-programVerif]                |
 | 19/05/10 | Static Program Analysis             | Tuan      |                | Surviving Out-of-Gas Conditions in Ethereum Smart Contracts   | [MadMax][paper-madmax]                             |
 | 19/05/17 | TBA                                 | Sohum     |                | TBA                                                           | TBA                                                |
 | 19/05/24 |                                     |           |                |                                                               |                                                    |
