@@ -8,7 +8,7 @@
 &middot; Jack Baskin - 156
 
 <!-- short bio from Niko's website -->
-### Speaker Bio (from his website):
+### [Speaker Bio](http://nikos.vasilak.is/#nikos-vasilakis):
 
     I am currently a Ph.D. Candidate at the University of Pennsylvania, advised by Jonathan M.
     Smith. My work falls under distributed systems, programming languages, and systems security.
