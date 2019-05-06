@@ -2,12 +2,13 @@
 
 &middot; Presented by [Niko Vasilakis](http://nikos.vasilak.is/)
 
-Friday &middot; May 31st, 2019 (Tentative)
+### Friday &middot; May 31st, 2019 (Tentative)
+&middot; 12:00 PM
 
-12:00 PM @ Jack Baskin - 156
+&middot; Jack Baskin - 156
 
 <!-- short bio from Niko's website -->
-Speaker Bio (from his website):
+### Speaker Bio (from his website):
 
     I am currently a Ph.D. Candidate at the University of Pennsylvania, advised by Jonathan M.
     Smith. My work falls under distributed systems, programming languages, and systems security.
