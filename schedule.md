@@ -10,7 +10,7 @@
 | 19/05/10 | Static Program Analysis             | Tuan            |                | Surviving Out-of-Gas Conditions in Ethereum Smart Contracts   | [MadMax][paper-madmax]                             |
 | 19/05/17 | TBA                                 | Sohum           |                | TBA                                                           | TBA                                                |
 | 19/05/24 |                                     |                 |                |                                                               |                                                    |
-| 19/05/31 | Modular safety and security         | Nikos Vasilakis |                | [](vasilakis.abstract.md)                                     |                                                    |
+| 19/05/31 | Modular safety and security         | Nikos Vasilakis |                | [Nikos Vasilakis Bio and Abstract](vasilakis.abstract.md)     |                                                    |
 | 19/06/07 |                                     |                 |                |                                                               |                                                    |
 
 ## Extra Resources
