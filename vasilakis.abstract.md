@@ -2,7 +2,7 @@
 
 &middot; Presented by [Niko Vasilakis](http://nikos.vasilak.is/)
 
-### Friday &middot; May 31st, 2019 (Tentative)
+### Friday &middot; May 24th, 2019 (Tentative)
 &middot; 12:00 PM
 
 &middot; Jack Baskin - 156
