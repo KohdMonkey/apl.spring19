@@ -1,6 +1,10 @@
-# Retrofitting Security, Module by Module <br/> May 31st, 2019 (Tentative)
+# Retrofitting Security, Module by Module
 
 &middot; Presented by [Niko Vasilakis](http://nikos.vasilak.is/)
+
+Friday &middot; May 31st, 2019 (Tentative)
+
+12:00 PM @ Jack Baskin - 156
 
 <!-- short bio from Niko's website -->
 Speaker Bio (from his website):
