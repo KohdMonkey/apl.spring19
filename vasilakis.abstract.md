@@ -1,4 +1,4 @@
-# Retrofitting Security, Module by Module
+# Retrofitting Security, Module by Module <br/> May 31st, 2019 (Tentative)
 
 &middot; Presented by [Niko Vasilakis](http://nikos.vasilak.is/)
 
