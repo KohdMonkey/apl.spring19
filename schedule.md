@@ -8,7 +8,7 @@
 | 19/04/26 | Solver-Aided Languages              | Aldrin          | Roy            | Rosette is a framework for designing SALs                     | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
 | 19/05/03 | Verification of Distributed Systems | Priyanka        | Ana            | Synchronous Verification of Asynchronous Distributed Programs | [Program Verif][paper-programVerif]                |
 | 19/05/10 | Static Program Analysis             | Tuan            | Priyanka       | Surviving Out-of-Gas Conditions in Ethereum Smart Contracts   | [MadMax][paper-madmax]                             |
-| 19/05/17 | TBA                                 | Sohum           |                | TBA                                                           | TBA                                                |
+| 19/05/17 | Modeling Agents with Probabilistic Programs | Sohum           |                | Languages For Agents                                  | [Modeling Agenst][book-agentmodels]                                                |
 | 19/05/24 | (?)<br/>Modular safety and security | Nikos Vasilakis |                | [Bio and Abstract](vasilakis.abstract.md)                     |                                                    |
 | 19/05/31 |                                     |                 |                |                                                               |                                                    |
 | 19/06/07 |                                     |                 |                |                                                               |                                                    |
@@ -35,6 +35,9 @@ Slides:
 
 <!-- links to talks -->
 [talk-synth-ver-forall]:    https://www.youtube.com/watch?v=KpDyuMIb_E0&index=25&list=PLZdCLR02grLp4W4ySd1sHPOsK83gvqBQp
+
+<!-- links to other resouces -->
+[book-agentmodels]:          https://agentmodels.org/ 
 
 <!-- links to slides -->
 [slides-sal-rosette-drin]:  https://docs.google.com/presentation/d/124fI8mFl2GIDuGHEPiy2jVrRDq-t2OTtb6ZiIOxIA40/edit?usp=sharing
