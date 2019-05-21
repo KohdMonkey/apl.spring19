@@ -8,10 +8,10 @@
 | 19/04/26 | Solver-Aided Languages              | Aldrin          | Roy            | Rosette is a framework for designing SALs                     | [Growing SAL with Rosette][paper-grow-sdl-rosette] |
 | 19/05/03 | Verification of Distributed Systems | Priyanka        | Ana            | Synchronous Verification of Asynchronous Distributed Programs | [Program Verif][paper-programVerif]                |
 | 19/05/10 | Static Program Analysis             | Tuan            | Priyanka       | Surviving Out-of-Gas Conditions in Ethereum Smart Contracts   | [MadMax][paper-madmax]                             |
-| 19/05/17 | Modeling Agents with Probabilistic Programs | Sohum           |                | Languages For Agents                                  | [Modeling Agenst][book-agentmodels]                                                |
-| 19/05/24 | (?)<br/>Modular safety and security | Nikos Vasilakis |                | [Bio and Abstract](vasilakis.abstract.md)                     |                                                    |
-| 19/05/31 |                                     |                 |                |                                                               |                                                    |
-| 19/06/07 |                                     |                 |                |                                                               |                                                    |
+| 19/05/17 | Modeling Agents with Probabilistic Programs | Sohum           | Tuan & Roy            | Languages For Agents                                  | [Modeling Agenst][book-agentmodels]                                                |
+| 19/05/24 | (?)<br/>Modular safety and security | Nikos Vasilakis | Tuan           | [Bio and Abstract](vasilakis.abstract.md)                     |                                                    |
+| 19/05/31 | TBA                                 | Ana             |                |                                                               |                                                    |
+| 19/06/07 | TBA                                 | Roy             |                |                                                               |                                                    |
 
 ## Extra Resources
 
