@@ -9,8 +9,8 @@
 | 19/05/03 | Verification of Distributed Systems | Priyanka        | Ana            | Synchronous Verification of Asynchronous Distributed Programs | [Program Verif][paper-programVerif]                |
 | 19/05/10 | Static Program Analysis             | Tuan            | Priyanka       | Surviving Out-of-Gas Conditions in Ethereum Smart Contracts   | [MadMax][paper-madmax]                             |
 | 19/05/17 | Modeling Agents with Probabilistic Programs | Sohum           | Tuan & Roy            | Languages For Agents                                  | [Modeling Agenst][book-agentmodels]                                                |
-| 19/05/24 | (?)<br/>Modular safety and security | Nikos Vasilakis | Tuan           | [Bio and Abstract](vasilakis.abstract.md)                     |                                                    |
-| 19/05/31 | TBA                                 | Ana             |                |                                                               |                                                    |
+| 19/05/24 | (?)<br/>Modular safety and security | Nikos Vasilakis | Tuan           | [Bio and Abstract](vasilakis.abstract.md)                     | [LWeb][paper-lweb]                                                   |
+| 19/05/31 | Information Flow Security           | Ana             | Tuan           | A framework for enforcing label-based, information flow policies in database |                                                    |
 | 19/06/07 | TBA                                 | Roy             |                |                                                               |                                                    |
 
 ## Extra Resources
@@ -32,6 +32,7 @@ Slides:
 [paper-lightweight-svm]:    https://homes.cs.washington.edu/~emina/pubs/rosette.pldi14.pdf
 [paper-madmax]:             https://www.nevillegrech.com/madmax-oopsla18.pdf
 [paper-programVerif]:       https://www.cs.princeton.edu/courses/archive/spring16/cos217/lectures/24_ProgramVerif.pdf
+[paper-lweb]:               http://delivery.acm.org/10.1145/3300000/3290388/popl19main-p161-p.pdf?ip=24.4.145.122&id=3290388&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1559232124_0b280e7c970b05ae9ab0be0928521f0c
 
 <!-- links to talks -->
 [talk-synth-ver-forall]:    https://www.youtube.com/watch?v=KpDyuMIb_E0&index=25&list=PLZdCLR02grLp4W4ySd1sHPOsK83gvqBQp
